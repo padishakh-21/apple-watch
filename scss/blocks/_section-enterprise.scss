@@ -1,0 +1,35 @@
+.enterprise-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.enterprise-heading {
+    width: 257px;
+    height: 110px;
+    margin: 0;
+    padding-bottom: 151px;
+}
+
+.enterprise-box {
+    border-left: 2px solid;
+    margin-bottom: 23px;
+    opacity: 0.4;
+}
+
+.enterprise-text {
+    width: 459px;
+    margin: 0;
+    line-height: initial;
+    margin-left: 27px;
+}
+
+.enterprise-btn {
+    width: 139px;
+    height: 46px;
+    text-transform: uppercase;
+    border: none;
+    background-color: rgb(234, 98, 92);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}

@@ -1,0 +1,40 @@
+.control-heading {
+    margin: 0;
+    width: 404px;
+    font-size: 45px;
+}
+
+.control-wrapper {
+    width: 970px;
+    height: 661px;
+    color: rgb(255, 255, 255);
+    background-image: url(../../img/runners.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 193px;
+    padding-left: 439px;
+}
+
+.control-inner {
+    margin-top: 45px;
+    padding-left: 26px;
+    line-height: initial;
+    border-left: 4px solid;
+}
+
+.control-text {
+    width: 460px;
+    margin: 0;
+}
+
+.control-btn {
+    width: 184px;
+    height: 46px;
+    text-transform: uppercase;
+    border: none;
+    background-color: rgb(234, 98, 92);
+    color: white;
+    cursor: pointer;
+    margin-top: 26px;
+}
