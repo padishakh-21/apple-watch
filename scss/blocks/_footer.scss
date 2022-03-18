@@ -1,3 +1,10 @@
+.site-footer {
+    background-image: url(../../img/runners.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 .control-heading {
     margin: 0;
     width: 404px;
@@ -8,10 +15,6 @@
     width: 970px;
     height: 661px;
     color: rgb(255, 255, 255);
-    background-image: url(../../img/runners.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
     padding-top: 193px;
     padding-left: 439px;
 }

@@ -610,6 +610,13 @@ body {
   cursor: pointer;
 }
 
+.site-footer {
+  background-image: url(../../img/runners.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 .control-heading {
   margin: 0;
   width: 404px;
@@ -620,10 +627,6 @@ body {
   width: 970px;
   height: 661px;
   color: white;
-  background-image: url(../../img/runners.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
   padding-top: 193px;
   padding-left: 439px;
 }
